@@ -16,6 +16,8 @@ A simple, stylish Todo application built with HTML, CSS, and JavaScript. This ap
    ```sh
    git clone <https://github.com/Marvin-MM/My-ToDo-App.git>
    ```
+   ## Screenshot
+   [ToDo App Review](./img/image.png)
 
 ## License
 This project is open-source and available under the MIT License.
